@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=BLACK%20MIRROR&fontSize=80&fontColor=00ff41&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20AI-Integrated%20Security%20Engineer%20%E2%80%A2%20Detection%20%26%20Automation%20Architect%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descSize=16&descColor=00ff41&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=BLACK%20MIRROR&fontSize=80&fontColor=00ff41&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20Cyber%20Security%20Engineer%20%E2%80%A2%20Detection%20%26%20Automation%20Architect%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descSize=16&descColor=00ff41&descAlignY=55&animation=fadeIn"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E+Cybersecurity+Analyst+%7C+Wazuh+Ambassador;%3E+LLM+Infrastructure+Builder+%7C+Detection+Architect;%3E+Breaking+things+to+make+them+stronger..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E+Cyber+Security+Engineer+%7C+Wazuh+Ambassador;%3E+LLM+Infrastructure+Builder+%7C+Detection+Architect;%3E+Breaking+things+to+make+them+stronger..." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,10 +14,10 @@
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
 ║   > whoami                                                                ║
-║   Cybersecurity Analyst · AI Security Engineer · Wazuh Ambassador         ║
+║   Cyber Security Engineer · AI Security Architect · Wazuh Ambassador     ║
 ║                                                                           ║
 ║   > cat /etc/profile                                                      ║
-║   Cyber Security Analyst based in Sydney, Australia.                      ║
+║   Cyber Security Engineer based in Sydney, Australia.                     ║
 ║   Building enterprise security solutions — from AI-powered               ║
 ║   threat detection to cloud security automation. Winner of                ║
 ║   Cyber Security Graduate of the Year 2025 (CrowdStrike).                ║
@@ -150,605 +150,1120 @@
 
 ## `> ls ./projects/`
 
+<br/>
+
+![Projects](https://img.shields.io/badge/TOTAL_PROJECTS-34-00ff41?style=for-the-badge&labelColor=0d1117)
+![Production](https://img.shields.io/badge/PRODUCTION-12-3AABE6?style=for-the-badge&labelColor=0d1117)
+![Active](https://img.shields.io/badge/ACTIVE_DEV-8-FF9900?style=for-the-badge&labelColor=0d1117)
+![Research](https://img.shields.io/badge/RESEARCH-6-9B59B6?style=for-the-badge&labelColor=0d1117)
+![Lab](https://img.shields.io/badge/LAB-8-FF6633?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 ---
 
-### 🔥 TIER 1 — Core Identity Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header"/>
 
-<table align="center">
+### `TIER 1` **CORE IDENTITY PROJECTS**
+
+<sub>These define my engineering identity — production systems I architected and built end-to-end</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr><td>
+
+<div align="center">
+
+**AI-SECURE ENTERPRISE PLATFORM** &nbsp; `ai-secure-enterprise-platform`
+
+![Status](https://img.shields.io/badge/STATUS-PRODUCTION-00ff41?style=flat-square&labelColor=1a1a2e)
+![Lines](https://img.shields.io/badge/15,000+_LINES-0d1117?style=flat-square&labelColor=3AABE6)
+![Models](https://img.shields.io/badge/6_LLMs-0d1117?style=flat-square&labelColor=9B59B6)
+
+</div>
+
+Production AI chat platform with microservices architecture powering enterprise security operations.
+
+```
+ARCHITECTURE
+├── Auth Layer ──────── Django authentication backend + RBAC + admin dashboard
+├── API Layer ───────── FastAPI REST API + MCP router + WebSocket support
+├── LLM Engine ──────── LLaMA · Mistral · Phi · Gemma · Qwen · GPT-OSS
+├── RAG Pipeline ────── ChromaDB vector storage + document chunking + embedding
+├── Ingestion ───────── PDF · DOCX · CSV · knowledge base processing
+└── Infrastructure ──── Docker Compose · Mac Mini persistent runtime
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td></tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr><td>
+
+<div align="center">
+
+**ADVANCED WAZUH AI SOC STACK** &nbsp; `wazuh-ai-soc-stack`
+
+![Status](https://img.shields.io/badge/STATUS-PRODUCTION-00ff41?style=flat-square&labelColor=1a1a2e)
+![Multi-Cloud](https://img.shields.io/badge/MULTI--CLOUD-0d1117?style=flat-square&labelColor=FF9900)
+![SOAR](https://img.shields.io/badge/SOAR_ENABLED-0d1117?style=flat-square&labelColor=E74C3C)
+
+</div>
+
+Full SIEM/SOAR deployment with custom detection engineering, AI-enriched alerting, and multi-cloud monitoring.
+
+```
+DETECTION PIPELINE
+├── Ingestion ───────── REST API · syslog · agent-based · filebeat
+├── Detection ───────── Custom rules · impossible travel · brute force · priv-esc
+├── Enrichment ──────── ML anomaly detection · Shodan exposure · threat intel
+├── Response ────────── n8n SOAR workflows · error handling · fallback logic
+└── Alerting ────────── Slack · MS Teams · PagerDuty · OpsGenie routing
+```
+
+![Wazuh](https://img.shields.io/badge/Wazuh-3AABE6?style=flat-square&logo=wazuh&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=flat-square&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white)
+
+</td></tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr><td>
+
+<div align="center">
+
+**PHISHING RESILIENCE RESEARCH ENGINE** &nbsp; `phishing-simulation-analytics-engine`
+
+![Status](https://img.shields.io/badge/STATUS-RESEARCH-9B59B6?style=flat-square&labelColor=1a1a2e)
+![Employees](https://img.shields.io/badge/4,000+_EMPLOYEES-0d1117?style=flat-square&labelColor=E74C3C)
+![Duration](https://img.shields.io/badge/2.5_YEAR_STUDY-0d1117?style=flat-square&labelColor=3AABE6)
+![Improvement](https://img.shields.io/badge/65%25_IMPROVEMENT-0d1117?style=flat-square&labelColor=00ff41)
+
+</div>
+
+Enterprise phishing simulation research — longitudinal behavioral analytics across **8,060+ users** with measurable organizational risk reduction.
+
+```
+RESEARCH FRAMEWORK
+├── Data Collection ──── Rotational group testing · 2.5-year longitudinal study
+├── Categories ───────── Opened · Reported · Compromised · Ignored
+├── Analytics ────────── Trend analysis · risk segmentation · behavior scoring
+├── Visualization ────── Organizational risk heatmaps · Jupyter dashboards
+└── Output ───────────── Executive reports · per-department risk profiles
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white)
+
+</td></tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header"/>
+
+### `TIER 2` **CYBERSECURITY SYSTEMS**
+
+<sub>Production security tooling — cloud scanning, SIEM integration, threat detection, and compliance</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🤖 AI-Secure Enterprise Platform
-`ai-secure-enterprise-platform`
+<div align="center">
 
-Production AI chat platform with microservices architecture. **15,000+ lines of code** powering enterprise security operations.
+**BLACK MIRROR CLOUD SCANNER**
 
-- Django auth backend + FastAPI API layer + MCP router
-- 6 local LLMs (LLaMA, Mistral, Phi, Gemma, Qwen, GPT-OSS)
-- RAG pipeline with ChromaDB vector storage
-- Document processing (PDF, DOCX, CSV) + knowledge ingestion
-- Role-based access control + admin dashboard
-- Dockerized deployment, Mac Mini persistent runtime
+![Production](https://img.shields.io/badge/PRODUCTION-00ff41?style=flat-square)
+![Clients](https://img.shields.io/badge/30+_CLIENTS-3AABE6?style=flat-square)
 
-`Python` `Django` `FastAPI` `LangChain` `ChromaDB` `Docker`
+</div>
+
+Prowler-based cloud security scanning on AWS. **70% cost reduction** via serverless.
+
+```
+├── Lambda + API Gateway + EventBridge
+├── JumpCloud SSO (SAML 2.0)
+├── S3 archival + CloudWatch
+└── Auto-scaling infrastructure
+```
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🛡️ Advanced Wazuh AI SOC Stack
-`wazuh-ai-soc-stack`
+<div align="center">
 
-Full SIEM/SOAR deployment with custom detection, AI-enriched alerting, and multi-cloud monitoring.
+**SNOWFLAKE-WAZUH SIEM INTEGRATION**
 
-- Custom detection rules + log parsing (all standard formats)
-- REST API ingestion + alert enrichment engine
-- **Impossible travel detection workflow**
-- Slack/MS Teams alerts + PagerDuty/OpsGenie routing
-- SOAR logic via n8n + error handling & fallback
-- ML anomaly detection + Shodan external exposure
+![Production](https://img.shields.io/badge/PRODUCTION-00ff41?style=flat-square)
+![Savings](https://img.shields.io/badge/60--70%25_COST_CUT-E74C3C?style=flat-square)
 
-`Wazuh` `n8n` `Python` `MITRE ATT&CK` `Shodan`
+</div>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
+Cost-optimized security data pipeline. **$490 to $190/month**. **100% event delivery**.
 
-#### 🎣 Phishing Resilience Research Engine
-`phishing-simulation-analytics-engine`
+```
+├── Dual: Wazuh socket + syslog CSV
+├── 17 SQL tasks → 6 (78% reduction)
+├── Real-time event correlation
+└── Automated pipeline monitoring
+```
 
-Enterprise phishing simulation research spanning **4,000+ employees** over a **2.5-year longitudinal study**. **65% improvement** in detection rates across **8,060+ users**.
-
-- Rotational group testing + behavior scoring model
-- Categories: Opened, Reported, Compromised + trend analysis
-- Risk segmentation + organizational risk heatmap
-- Jupyter notebooks + Python analytics + visualization engine
-
-`Python` `Jupyter` `Pandas` `Analytics` `Data Visualization`
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AABE6?style=flat-square&logo=wazuh&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
 </table>
+</div>
 
----
-
-### 🛡️ TIER 2 — Cybersecurity Systems
-
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### ☁️ Black Mirror Cloud Scanner (RCS)
-`cloud-security-scanner`
+<div align="center">
 
-Prowler-based cloud security scanning platform on AWS serving **30+ enterprise clients**.
+**RANSOMWARE LIVE THREAT DETECTION**
 
-- Auto-scaling: Lambda, API Gateway, EventBridge
-- **70% cost reduction** via serverless architecture
-- JumpCloud SSO with SAML 2.0
-- S3 archival + CloudWatch monitoring
+![Production](https://img.shields.io/badge/PRODUCTION-00ff41?style=flat-square)
+![Clients](https://img.shields.io/badge/50+_CLIENTS-3AABE6?style=flat-square)
 
-`AWS` `Lambda` `Prowler` `SAML` `Python`
+</div>
 
-</td>
-<td width="50%" valign="top">
+Real-time ransomware threat intelligence with hourly execution cycles.
 
-#### 📊 Snowflake-Wazuh SIEM Integration
-`snowflake-wazuh-siem-integration`
+```
+├── Ransomware.live API integration
+├── AWS S3 client database matching
+├── Multi-criteria threat engine
+└── OpsGenie + Slack alerting
+```
 
-Cost-optimized security data pipeline: **60-70% cost reduction** ($490 → $190/month).
-
-- Dual integration: Wazuh socket + syslog CSV
-- **100% event delivery rate**
-- 17 SQL tasks → 6 (78% polling cost reduction)
-- Real-time security event correlation
-
-`Snowflake` `Wazuh` `SQL` `Python`
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🚨 Ransomware Live Threat Detection
-`ransomware-live-threat-detection`
+<div align="center">
 
-Real-time ransomware threat intelligence protecting **50+ clients**.
+**VULNERABILITY AGING ANALYTICS**
 
-- n8n workflow with hourly execution cycles
-- Ransomware.live API + AWS S3 client database
-- Multi-criteria matching engine
-- OpsGenie + Slack automated alerting
+![Production](https://img.shields.io/badge/PRODUCTION-00ff41?style=flat-square)
+![MTTP](https://img.shields.io/badge/MTTP_45→12_DAYS-E74C3C?style=flat-square)
 
-`n8n` `AWS` `Python` `OpsGenie`
+</div>
 
-</td>
-<td width="50%" valign="top">
+CVE lifecycle tracking with patch deduplication. **73% faster** mean time to patch.
 
-#### 📈 Vulnerability Aging Analytics
-`vulnerability-aging-analytics`
+```
+├── Duplicate filtering + dedup logic
+├── Severity categorization engine
+├── Aging calculations + risk scoring
+└── CSV export + dashboard visuals
+```
 
-CVE lifecycle tracking and patch deduplication engine. Reduced **mean time to patch from 45 → 12 days**.
-
-- Duplicate filtering + severity categorization
-- Aging report calculation + risk prioritization
-- CSV export + dashboard visualization
-
-`Python` `SQL` `Nessus` `Analytics`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔍 Jira Security Audit Monitoring
-`jira-proactive-security-monitoring`
-
-Proactive security monitoring via Jira audit log analysis.
-
-- Audit log ingestion + risk mapping
-- Insider threat detection model
-- Compliance mapping (ISO 27001 / SOC 2)
-- Threat modeling + architecture diagrams
-
-`Python` `Jira API` `ISO 27001` `SOC 2`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📧 DMARC Monitoring & Failure Detection
-`dmarc-monitoring-automation`
-
-Automated email security monitoring and misconfiguration detection.
-
-- XML report parser + SPF/DKIM validation
-- Failure analytics + alerting engine
-- Misconfiguration detection
-- Visualization dashboard
-
-`Python` `DMARC` `SPF` `DKIM` `DNS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌐 External Attack Surface Monitor
-`external-attack-surface-monitor`
-
-Shodan-powered continuous external exposure monitoring.
-
-- Shodan API integration + asset detection
-- Continuous monitoring scheduler
-- Risk scoring model
-- Client-facing report templates
-
-`Python` `Shodan` `API` `Risk Scoring`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔎 Third-Party Risk AI Analyzer
-`llm-third-party-risk-assessor`
-
-LLM-powered third-party risk assessment automation.
-
-- Multi-format ingestion (PDF, Excel, JSON)
-- Token optimization + AI-based risk extraction
-- Control mapping + automated risk scoring
-
-`Python` `LangChain` `FastAPI` `LLM`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📧 Microsoft 365 Enterprise Backup
-`m365-enterprise-backup`
-
-Full M365 backup: Exchange, OneDrive, SharePoint, Teams, OneNote, Planner.
-
-- **80% backup time reduction** with Python asyncio
-- Microsoft Graph API + OAuth2
-- Processing **100+ mailboxes** and **5TB+ daily**
-- Cross-platform scheduling daemon
-
-`Python` `AsyncIO` `Graph API` `OAuth2`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔐 Atlassian Cloud Backup Automation
-`atlassian-cloud-backup`
-
-Unified Jira & Confluence backup with enterprise encryption.
-
-- GPG AES256 encryption for all backups
-- Interactive CLI with real-time progress
-- **50+ Confluence spaces** and **20+ Jira projects** daily
-- REST API integration with retry logic
-
-`Python` `GPG` `REST API` `Bash`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**JIRA SECURITY AUDIT MONITORING**
+
+![Active](https://img.shields.io/badge/ACTIVE-FF9900?style=flat-square)
+![Compliance](https://img.shields.io/badge/ISO_27001-3AABE6?style=flat-square)
+
+</div>
+
+Proactive insider threat detection via Jira audit log analysis.
+
+```
+├── Audit log ingestion + risk mapping
+├── Insider threat detection model
+├── ISO 27001 / SOC 2 compliance
+└── Threat modeling + architecture
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**DMARC MONITORING & FAILURE DETECTION**
+
+![Active](https://img.shields.io/badge/ACTIVE-FF9900?style=flat-square)
+![Email Sec](https://img.shields.io/badge/EMAIL_SECURITY-9B59B6?style=flat-square)
+
+</div>
+
+Automated email security monitoring with misconfiguration alerting.
+
+```
+├── XML report parser
+├── SPF / DKIM validation engine
+├── Failure analytics + alerting
+└── Visualization dashboard
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-0d1117?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**EXTERNAL ATTACK SURFACE MONITOR**
+
+![Active](https://img.shields.io/badge/ACTIVE-FF9900?style=flat-square)
+![Recon](https://img.shields.io/badge/CONTINUOUS_RECON-E74C3C?style=flat-square)
+
+</div>
+
+Shodan-powered continuous external exposure monitoring and risk scoring.
+
+```
+├── Shodan API integration
+├── Asset exposure detection
+├── Continuous monitoring scheduler
+└── Client-facing report templates
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**THIRD-PARTY RISK AI ANALYZER**
+
+![Active](https://img.shields.io/badge/ACTIVE-FF9900?style=flat-square)
+![AI](https://img.shields.io/badge/LLM_POWERED-9B59B6?style=flat-square)
+
+</div>
+
+LLM-driven third-party risk assessment with automated control mapping.
+
+```
+├── Multi-format: PDF · Excel · JSON
+├── Token optimization logic
+├── AI-based risk extraction
+└── Control mapping + risk scoring
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**MICROSOFT 365 ENTERPRISE BACKUP**
+
+![Production](https://img.shields.io/badge/PRODUCTION-00ff41?style=flat-square)
+![Scale](https://img.shields.io/badge/5TB+_DAILY-3AABE6?style=flat-square)
+
+</div>
+
+Full M365 backup — Exchange, OneDrive, SharePoint, Teams. **80% faster** with asyncio.
+
+```
+├── Microsoft Graph API + OAuth2
+├── 100+ mailboxes processed daily
+├── Python asyncio concurrency
+└── Cross-platform scheduling daemon
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Graph API](https://img.shields.io/badge/Graph_API-5E5CE6?style=flat-square&logo=microsoft&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-FFD43B?style=flat-square&logoColor=black)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**ATLASSIAN CLOUD BACKUP AUTOMATION**
+
+![Production](https://img.shields.io/badge/PRODUCTION-00ff41?style=flat-square)
+![Encrypted](https://img.shields.io/badge/AES256_GPG-3AABE6?style=flat-square)
+
+</div>
+
+Unified Jira & Confluence backup with enterprise-grade encryption.
+
+```
+├── GPG AES256 encryption
+├── 50+ Confluence spaces daily
+├── 20+ Jira projects daily
+└── Interactive CLI + retry logic
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GPG](https://img.shields.io/badge/GPG-0093DD?style=flat-square&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-### 🤖 TIER 3 — AI / LLM Systems
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header"/>
 
-<table align="center">
+### `TIER 3` **AI / LLM SYSTEMS**
+
+<sub>RAG pipelines, model orchestration, AI governance, and intelligent security assistants</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 📄 Universal RAG Ingestion Framework
-`universal-rag-ingestion-framework`
+<div align="center">
+
+**UNIVERSAL RAG INGESTION FRAMEWORK**
+
+![Active](https://img.shields.io/badge/ACTIVE-FF9900?style=flat-square)
+![Multi-Format](https://img.shields.io/badge/5+_FORMATS-9B59B6?style=flat-square)
+
+</div>
 
 Multi-format document processing pipeline for RAG applications.
 
-- Supports PDF, CSV, JSON, DOCX, Images (OCR)
-- Chunking strategies + embedding optimization
-- Vector indexing with ChromaDB
+```
+├── PDF · CSV · JSON · DOCX · Images
+├── OCR logic for image extraction
+├── Chunking strategies
+├── Embedding optimization
+└── ChromaDB vector indexing
+```
 
-`Python` `LangChain` `ChromaDB` `OCR`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔀 Model Context Protocol Orchestrator
-`model-context-control-plane`
-
-Multi-model LLM routing with intelligent fallback logic.
-
-- Multi-model routing + fallback strategies
-- Prompt versioning + API orchestration
-- Logging & observability layer
-
-`Python` `FastAPI` `MCP` `Docker`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🏛️ AI Security Governance Framework
-`ai-security-governance-framework`
+<div align="center">
 
-Government AI framework comparison and risk assessment tooling.
+**MODEL CONTEXT PROTOCOL ORCHESTRATOR**
 
-- Framework comparison matrix
-- Risk scoring system + control library
-- Evaluation matrix + automated scoring
+![Active](https://img.shields.io/badge/ACTIVE-FF9900?style=flat-square)
+![Architecture](https://img.shields.io/badge/CONTROL_PLANE-E74C3C?style=flat-square)
 
-`Python` `Governance` `Risk Assessment`
+</div>
 
-</td>
-<td width="50%" valign="top">
+Multi-model LLM routing with intelligent fallback and observability.
 
-#### 🚑 AI SOC Incident Response Assistant
-`ai-soc-assistant`
+```
+├── Multi-model routing engine
+├── Fallback + failover strategies
+├── Prompt versioning system
+├── API orchestration layer
+└── Logging & observability
+```
 
-AI-powered SOC assistant for accelerated incident response.
-
-- Log summarization + alert explanation engine
-- Investigation workflow generator
-- Risk-based prioritization
-- Wazuh stack integration
-
-`Python` `LangChain` `Wazuh` `FastAPI`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
 </table>
+</div>
 
----
-
-### ⚙️ TIER 4 — Automation Systems
-
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🔄 Slack ↔ Jira Bi-Directional Sync
-`slack-jira-state-sync-engine`
+<div align="center">
 
-Real-time bidirectional synchronization engine.
+**AI SECURITY GOVERNANCE FRAMEWORK**
 
-- Timestamp override logic + 10-min sync loop
-- Conflict resolution + checklist logic
-- Full Slack & Jira API integration
+![Research](https://img.shields.io/badge/RESEARCH-9B59B6?style=flat-square)
+![Governance](https://img.shields.io/badge/GOVERNANCE-3AABE6?style=flat-square)
 
-`Python` `Slack API` `Jira API` `Automation`
+</div>
 
-</td>
-<td width="50%" valign="top">
+Government AI framework comparison and automated risk scoring.
 
-#### 🎬 YouTube AI Content Automation
-`youtube-ai-content-automation`
+```
+├── Framework comparison matrix
+├── Risk scoring system
+├── Control library
+├── Evaluation matrix
+└── Automated scoring scripts
+```
 
-n8n-powered content pipeline for automated publishing.
-
-- Shorts extraction + metadata optimization
-- AI title generation + publishing automation
-- Error handling + scheduling logic
-
-`n8n` `AI` `API` `Automation`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Governance](https://img.shields.io/badge/AI_Governance-1a1a2e?style=flat-square&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🐳 Dockerized LLM Runtime Stack
-`docker-llm-runtime-stack`
+<div align="center">
 
-Infrastructure for running LLMs across distributed hardware.
+**AI SOC INCIDENT RESPONSE ASSISTANT**
 
-- Dockerfiles + Compose orchestration
-- Service dependencies + auto-start logic
-- Mac Mini persistence strategy
-- Prometheus monitoring + Grafana dashboards
+![Active](https://img.shields.io/badge/ACTIVE-FF9900?style=flat-square)
+![SOC](https://img.shields.io/badge/SOC_INTEGRATED-E74C3C?style=flat-square)
 
-`Docker` `Prometheus` `Grafana` `LLM`
+</div>
 
-</td>
-<td width="50%" valign="top">
+AI-powered SOC assistant for accelerated incident triage and response.
 
-#### ✅ SOC Daily Operations Automation
-`automated-soc-daily-checklist`
+```
+├── Log summarization engine
+├── Alert explanation + context
+├── Investigation workflow gen
+├── Risk-based prioritization
+└── Wazuh stack integration
+```
 
-Automated SOC analyst daily workflow tracking.
-
-- Slack workflow integration
-- Jira task tracking + completion monitoring
-- Automated status reporting
-
-`Slack API` `Jira API` `Python` `n8n`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AABE6?style=flat-square&logo=wazuh&logoColor=white)
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-### 🏢 TIER 5 — System Design & Business Models
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header"/>
 
-<table align="center">
+### `TIER 4` **AUTOMATION SYSTEMS**
+
+<sub>Workflow engines, bidirectional sync, content pipelines, and infrastructure automation</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 💰 Credit-Based Job Marketplace MVP
-`credit-based-job-marketplace`
+<div align="center">
 
-Tradie marketplace platform with credit-based monetization.
+**SLACK-JIRA BI-DIRECTIONAL SYNC**
 
-- Credit logic + quote cap system
-- Refund system + admin moderation
-- Monetization design + database schema
+![Production](https://img.shields.io/badge/PRODUCTION-00ff41?style=flat-square)
+![Sync](https://img.shields.io/badge/10_MIN_LOOP-3AABE6?style=flat-square)
 
-`System Design` `Database` `Business Logic`
+</div>
 
-</td>
-<td width="50%" valign="top">
+Real-time bidirectional state synchronization engine.
 
-#### 🏗️ Managed Team Operating Framework
-`managed-team-framework`
+```
+├── Timestamp override logic
+├── 10-min continuous sync loop
+├── Conflict resolution engine
+├── Checklist state management
+└── Full Slack & Jira API
+```
 
-Outsourcing operating model for managed services.
-
-- Hiring model + SLA framework
-- Risk management + communication structure
-- Cost optimization model
-
-`Business Architecture` `SLA` `Operations`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🏛️ Holding Company Architecture
-`holding-structure-design`
+<div align="center">
 
-Corporate structure design with IP protection.
+**YOUTUBE AI CONTENT AUTOMATION**
 
-- Subsidiary structure + IP protection model
-- Bankruptcy isolation strategy
-- International registration + governance
+![Active](https://img.shields.io/badge/ACTIVE-FF9900?style=flat-square)
+![Workflow](https://img.shields.io/badge/n8n_POWERED-EA4B71?style=flat-square)
 
-`Business Architecture` `Legal` `Governance`
+</div>
 
-</td>
-<td width="50%" valign="top">
+n8n-powered content pipeline with AI-driven metadata optimization.
 
-#### 📚 Enterprise Knowledge Platform
-`enterprise-knowledge-platform-architecture`
+```
+├── Shorts extraction logic
+├── AI metadata + title generation
+├── Publishing automation
+├── Error handling + scheduling
+└── 1 long + 1 short per day
+```
 
-Knowledge base architecture for enterprise documentation.
-
-- Confluence integration + Jira Service Desk mapping
-- Permission model + white-label strategy
-- Search optimization
-
-`Architecture` `Confluence` `Jira` `Design`
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![AI](https://img.shields.io/badge/AI-9B59B6?style=flat-square&logoColor=white)
 
 </td>
 </tr>
 </table>
+</div>
 
----
-
-### 🧪 TIER 6 — Lab Projects
-
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 📝 Python Log Parsing Engine
-`python-log-parsing-engine`
+<div align="center">
 
-Universal log parser supporting all standard formats.
+**DOCKERIZED LLM RUNTIME STACK**
 
-- Apache, Syslog, Windows, JSON logs
-- Normalization engine + structured output
+![Production](https://img.shields.io/badge/PRODUCTION-00ff41?style=flat-square)
+![Infra](https://img.shields.io/badge/INFRASTRUCTURE-2496ED?style=flat-square)
 
-`Python` `Regex` `Log Analysis`
+</div>
 
-</td>
-<td width="50%" valign="top">
+Containerized LLM infrastructure with monitoring and auto-recovery.
 
-#### 🔁 API Resilience Framework
-`python-api-resilience-framework`
+```
+├── Dockerfiles + Compose
+├── Service dependency graph
+├── Auto-start + persistence
+├── Prometheus + Grafana
+└── Mac Mini runtime strategy
+```
 
-Production-grade REST API error handling library.
-
-- Structured logging + retry with backoff
-- Exception hierarchy + circuit breaker
-
-`Python` `REST API` `Error Handling`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔌 Network Switch Lab (ERS 5520)
-`ers5520-lab-configuration-guide`
-
-Nortel/Avaya ERS 5520 home lab configuration.
-
-- VLAN setup + routing configuration
-- Lab topology diagrams + CLI commands
-
-`Networking` `VLAN` `Routing` `Lab`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🕵️ AI Threat Intelligence Aggregator
-`ai-threat-intel-aggregator`
+<div align="center">
 
-Automated threat intel collection and correlation.
+**SOC DAILY OPERATIONS AUTOMATION**
 
-- MISP JSON import + IOC ingestion
-- Scoring engine + correlation logic
+![Production](https://img.shields.io/badge/PRODUCTION-00ff41?style=flat-square)
+![SOC](https://img.shields.io/badge/SOC_OPS-E74C3C?style=flat-square)
 
-`Python` `MISP` `Threat Intel` `IOC`
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Automated SOC analyst daily workflow tracking and status reporting.
 
-#### 🎯 Detection Engineering Rule Pack
-`custom-detection-rule-library`
+```
+├── Slack workflow integration
+├── Jira task tracking
+├── Completion monitoring
+├── Automated status reports
+└── Team visibility dashboard
+```
 
-Custom SIEM detection rules for common attack patterns.
-
-- Impossible travel + brute force detection
-- Suspicious login + privilege escalation rules
-
-`Wazuh` `SIGMA` `Detection Engineering`
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚖️ AI Risk Prioritization Model
-`ai-risk-prioritization-model`
-
-ML-driven risk scoring and behavior analysis.
-
-- Weighted risk scoring + behavior analysis
-- Organizational risk visualization
-
-`Python` `ML` `Risk Scoring` `Analytics`
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-### 🎮 TIER 7 — Personal & Side Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header"/>
 
-<table align="center">
+### `TIER 5` **SYSTEM DESIGN & BUSINESS MODELS**
+
+<sub>Architecture blueprints, platform designs, and business operating models</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 💬 Black Mirror Chat App
+<div align="center">
+
+**CREDIT-BASED JOB MARKETPLACE**
+
+![Concept](https://img.shields.io/badge/MVP_DESIGN-FF6633?style=flat-square)
+
+</div>
+
+Tradie marketplace with credit-based monetization model.
+
+```
+├── Credit + quote cap logic
+├── Refund system design
+├── Admin moderation model
+├── Monetization strategy
+└── Database schema
+```
+
+![System Design](https://img.shields.io/badge/System_Design-1a1a2e?style=flat-square&logoColor=white)
+![Database](https://img.shields.io/badge/Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**MANAGED TEAM OPERATING FRAMEWORK**
+
+![Concept](https://img.shields.io/badge/FRAMEWORK-FF6633?style=flat-square)
+
+</div>
+
+Outsourcing operating model for managed service delivery.
+
+```
+├── Hiring model design
+├── SLA framework
+├── Risk management
+├── Communication structure
+└── Cost optimization model
+```
+
+![Architecture](https://img.shields.io/badge/Business_Architecture-1a1a2e?style=flat-square&logoColor=white)
+![SLA](https://img.shields.io/badge/SLA-3AABE6?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**HOLDING COMPANY ARCHITECTURE**
+
+![Concept](https://img.shields.io/badge/DESIGN-FF6633?style=flat-square)
+
+</div>
+
+Corporate structure with IP protection and bankruptcy isolation.
+
+```
+├── Subsidiary structure
+├── IP protection model
+├── Bankruptcy isolation
+├── International registration
+└── Governance framework
+```
+
+![Legal](https://img.shields.io/badge/Legal_Architecture-1a1a2e?style=flat-square&logoColor=white)
+![Governance](https://img.shields.io/badge/Governance-3AABE6?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**ENTERPRISE KNOWLEDGE PLATFORM**
+
+![Active](https://img.shields.io/badge/ACTIVE-FF9900?style=flat-square)
+
+</div>
+
+Knowledge base architecture for enterprise documentation and self-service.
+
+```
+├── Confluence integration
+├── Jira Service Desk mapping
+├── Permission model
+├── White-label strategy
+└── Search optimization
+```
+
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header"/>
+
+### `TIER 6` **LAB PROJECTS**
+
+<sub>Experimental builds, detection packs, parsers, and research tools</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**PYTHON LOG PARSING ENGINE**
+
+![Lab](https://img.shields.io/badge/LAB-FF6633?style=flat-square)
+
+</div>
+
+Universal log parser: Apache, Syslog, Windows, JSON. Normalization engine with structured output.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-1a1a2e?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**API RESILIENCE FRAMEWORK**
+
+![Lab](https://img.shields.io/badge/LAB-FF6633?style=flat-square)
+
+</div>
+
+Production-grade error handling: structured logging, retry with backoff, exception hierarchy, circuit breaker.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-009688?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**NETWORK SWITCH LAB (ERS 5520)**
+
+![Lab](https://img.shields.io/badge/LAB-FF6633?style=flat-square)
+
+</div>
+
+Nortel/Avaya ERS 5520 home lab — VLAN setup, routing config, topology diagrams, CLI reference.
+
+![Networking](https://img.shields.io/badge/Networking-0d1117?style=flat-square&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-3AABE6?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**AI THREAT INTELLIGENCE AGGREGATOR**
+
+![Lab](https://img.shields.io/badge/LAB-FF6633?style=flat-square)
+
+</div>
+
+Automated threat intel: MISP JSON import, IOC ingestion, scoring engine, correlation logic.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-FF0000?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**DETECTION ENGINEERING RULE PACK**
+
+![Lab](https://img.shields.io/badge/LAB-FF6633?style=flat-square)
+
+</div>
+
+Custom SIEM rules: impossible travel, brute force, suspicious login, privilege escalation detection.
+
+![Wazuh](https://img.shields.io/badge/Wazuh-3AABE6?style=flat-square&logo=wazuh&logoColor=white)
+![SIGMA](https://img.shields.io/badge/SIGMA-1a1a2e?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**AI RISK PRIORITIZATION MODEL**
+
+![Research](https://img.shields.io/badge/RESEARCH-9B59B6?style=flat-square)
+
+</div>
+
+ML-driven weighted risk scoring, behavior analysis, and organizational risk visualization.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header"/>
+
+### `TIER 7` **PERSONAL & SIDE PROJECTS**
+
+<sub>Full-stack applications, games, and creative builds</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**BLACK MIRROR CHAT APP**
+
+![Live](https://img.shields.io/badge/LIVE-00ff41?style=flat-square)
+
+</div>
+
 Multi-user chat with Alpine.js, Firebase, Gemini AI, and document upload.
 
-`Alpine.js` `Firebase` `Gemini AI`
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 📄 ResumeForge AI
-AI-powered resume builder — Streamlit + HTML/JS versions.
+<div align="center">
 
-`Python` `Streamlit` `JavaScript` `AI`
+**RESUMEFORGE AI**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![Live](https://img.shields.io/badge/LIVE-00ff41?style=flat-square)
 
-#### 🎲 3D Ludo Game
-Fully functional 3D board game with animations and sound.
+</div>
 
-`JavaScript` `3D` `Game Dev`
+AI-powered resume builder — dual versions: Streamlit + HTML/JS.
 
-</td>
-<td width="50%" valign="top">
-
-#### 🧩 Sudoku Game
-React-based with multiple levels, hints, and potential numbers.
-
-`React` `JavaScript` `Game Logic`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛒 RC Toys Ecommerce
-React ecommerce with AI-powered chat assistant.
-
-`React` `Node.js` `AI Chat`
-
-</td>
-<td width="50%" valign="top">
-
-#### 💻 ChatGPT Web Interface Clone
-Full frontend replica with projects, chat management.
-
-`JavaScript` `HTML` `CSS` `UI/UX`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔮 Responsive Chat Interface
-Model selection, session management, document upload.
-
-`JavaScript` `API` `UI/UX`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚀 Lead Generation Automation
-n8n workflow for sales/marketing integrating multiple data sources.
-
-`n8n` `API` `Automation`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**3D LUDO GAME**
+
+![Complete](https://img.shields.io/badge/COMPLETE-3AABE6?style=flat-square)
+
+</div>
+
+Fully functional 3D board game with animations, sound effects, and multiplayer.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![3D](https://img.shields.io/badge/3D_Engine-1a1a2e?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**SUDOKU GAME**
+
+![Complete](https://img.shields.io/badge/COMPLETE-3AABE6?style=flat-square)
+
+</div>
+
+React-based with multiple difficulty levels, hints, and potential number display.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**RC TOYS ECOMMERCE**
+
+![Complete](https://img.shields.io/badge/COMPLETE-3AABE6?style=flat-square)
+
+</div>
+
+React ecommerce platform with AI-powered chat assistant.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**CHATGPT WEB INTERFACE CLONE**
+
+![Complete](https://img.shields.io/badge/COMPLETE-3AABE6?style=flat-square)
+
+</div>
+
+Full frontend replica with projects, chat management, and session handling.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+**RESPONSIVE CHAT INTERFACE**
+
+![Complete](https://img.shields.io/badge/COMPLETE-3AABE6?style=flat-square)
+
+</div>
+
+Model selection, session management, document upload, responsive design.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/API-009688?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+**LEAD GENERATION AUTOMATION**
+
+![Active](https://img.shields.io/badge/ACTIVE-FF9900?style=flat-square)
+
+</div>
+
+n8n workflow for sales/marketing integrating multiple data sources.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![API](https://img.shields.io/badge/API-009688?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
