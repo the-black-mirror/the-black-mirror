@@ -1,32 +1,35 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=BLACK%20MIRROR&fontSize=80&fontColor=00ff41&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20Cybersecurity%20%E2%80%A2%20Offensive%20Security%20%E2%80%A2%20DevSecOps%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descSize=18&descColor=00ff41&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=BLACK%20MIRROR&fontSize=80&fontColor=00ff41&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20AI-Integrated%20Security%20Engineer%20%E2%80%A2%20Detection%20%26%20Automation%20Architect%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descSize=16&descColor=00ff41&descAlignY=55&animation=fadeIn"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Cybersecurity+Analyst+%7C+Wazuh+Ambassador;%3E+Award-Winning+Security+Engineer+%7C+DevSecOps;%3E+Breaking+things+to+make+them+stronger..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E+Cybersecurity+Analyst+%7C+Wazuh+Ambassador;%3E+LLM+Infrastructure+Builder+%7C+Detection+Architect;%3E+Breaking+things+to+make+them+stronger..." alt="Typing SVG" />
 </a>
 
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   > whoami                                                           ║
-║   Cybersecurity Analyst · Ethical Hacker · Wazuh Ambassador          ║
-║                                                                      ║
-║   > cat /etc/profile                                                 ║
-║   Cyber Security Analyst based in Sydney, Australia.                 ║
-║   Building enterprise security solutions — from AI-powered          ║
-║   threat detection to cloud security automation. Winner of           ║
-║   Cyber Security Graduate of the Year 2025 (CrowdStrike).           ║
-║   Official Wazuh Ambassador. Protecting 50+ enterprise clients.     ║
-║                                                                      ║
-║   > cat /var/log/mission                                             ║
-║   Find the vulnerability before the adversary does.                  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   > whoami                                                                ║
+║   Cybersecurity Analyst · AI Security Engineer · Wazuh Ambassador         ║
+║                                                                           ║
+║   > cat /etc/profile                                                      ║
+║   Cyber Security Analyst based in Sydney, Australia.                      ║
+║   Building enterprise security solutions — from AI-powered               ║
+║   threat detection to cloud security automation. Winner of                ║
+║   Cyber Security Graduate of the Year 2025 (CrowdStrike).                ║
+║   Official Wazuh Ambassador. Protecting 50+ enterprise clients.          ║
+║                                                                           ║
+║   Few people combine SIEM + LLM architecture + automation +              ║
+║   business systems + research analytics. I do.                            ║
+║                                                                           ║
+║   > cat /var/log/mission                                                  ║
+║   Find the vulnerability before the adversary does.                       ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -40,13 +43,13 @@
 <br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🏆 WINNER — Cyber Security Graduate of the Year 2025              │
-│              (Cyber Daily / CrowdStrike)                            │
-│  🏅 FINALIST — Excellence Award 2025 (Cyber Daily / CrowdStrike)  │
-│  🌏 NOMINATED — NSW International Student Award                    │
-│  🛡️  OFFICIAL — Wazuh Ambassador                                   │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│  🏆 WINNER — Cyber Security Graduate of the Year 2025               │
+│              (Cyber Daily / CrowdStrike)                             │
+│  🏅 FINALIST — Excellence Award 2025 (Cyber Daily / CrowdStrike)   │
+│  🌏 NOMINATED — NSW International Student Award                     │
+│  🛡️  OFFICIAL — Wazuh Ambassador                                    │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -70,6 +73,7 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=for-the-badge&logoColor=FF0000)
 ![Snort](https://img.shields.io/badge/Snort-0d1117?style=for-the-badge&logoColor=FF0000)
 ![Suricata](https://img.shields.io/badge/Suricata-0d1117?style=for-the-badge&logoColor=F68B24)
+![MISP](https://img.shields.io/badge/MISP-0d1117?style=for-the-badge&logoColor=FF0000)
 
 ### Vulnerability Management & Compliance
 ![Nessus](https://img.shields.io/badge/Nessus-0d1117?style=for-the-badge&logoColor=00C176)
@@ -80,6 +84,7 @@
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-0d1117?style=for-the-badge&logoColor=00ff41)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-0d1117?style=for-the-badge&logoColor=00ff41)
 ![SWIFT CSP](https://img.shields.io/badge/SWIFT_CSP-0d1117?style=for-the-badge&logoColor=FF6600)
+![SOC 2](https://img.shields.io/badge/SOC_2-0d1117?style=for-the-badge&logoColor=00ff41)
 
 ### Offensive Security & Pentesting
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=FF6633)
@@ -88,6 +93,15 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![Hashcat](https://img.shields.io/badge/Hashcat-0d1117?style=for-the-badge&logoColor=00ff41)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+
+### AI / LLM Stack
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logoColor=00ff41)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=00ff41)
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logoColor=ffffff)
+![LLaMA](https://img.shields.io/badge/LLaMA-0d1117?style=for-the-badge&logoColor=7B68EE)
+![Mistral](https://img.shields.io/badge/Mistral-0d1117?style=for-the-badge&logoColor=FF7000)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0d1117?style=for-the-badge&logoColor=00ff41)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0d1117?style=for-the-badge&logoColor=00ff41)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
@@ -106,17 +120,26 @@
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-0d1117?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
+
+### Automation & Integration
 ![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logoColor=00ff41)
+![Slack API](https://img.shields.io/badge/Slack_API-0d1117?style=for-the-badge&logo=slack&logoColor=4A154B)
+![Jira API](https://img.shields.io/badge/Jira_API-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0d1117?style=for-the-badge&logo=microsoft&logoColor=5E5CE6)
+![OpsGenie](https://img.shields.io/badge/OpsGenie-0d1117?style=for-the-badge&logo=opsgenie&logoColor=172B4D)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800)
 
 ### Identity & Access Management
 ![JumpCloud](https://img.shields.io/badge/JumpCloud-0d1117?style=for-the-badge&logoColor=00ff41)
 ![Azure AD](https://img.shields.io/badge/Azure_AD-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![SAML 2.0](https://img.shields.io/badge/SAML_2.0-0d1117?style=for-the-badge&logoColor=FF6633)
 ![OAuth2](https://img.shields.io/badge/OAuth2-0d1117?style=for-the-badge&logoColor=00ff41)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0d1117?style=for-the-badge&logo=microsoft&logoColor=5E5CE6)
 ![Fortinet](https://img.shields.io/badge/Fortinet-0d1117?style=for-the-badge&logo=fortinet&logoColor=EE3124)
 
 </div>
@@ -129,59 +152,97 @@
 
 </div>
 
-### Enterprise Security Solutions
+---
+
+### 🔥 TIER 1 — Core Identity Projects
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 Black Mirror Gen1 — AI Security Assistant
-Production AI chat platform with microservices architecture. 15,000+ lines of code powering enterprise security operations.
+#### 🤖 AI-Secure Enterprise Platform
+`ai-secure-enterprise-platform`
 
-- Django backend + FastAPI RAG service + MCP router
-- 6 local LLM models (Llama, Mistral, Phi, Gemma, Qwen, GPT-OSS)
-- Document processing (PDF, DOCX, CSV) with ChromaDB vectors
-- Docker Compose orchestration, PostgreSQL, admin dashboard
+Production AI chat platform with microservices architecture. **15,000+ lines of code** powering enterprise security operations.
 
-`Python` `Django` `FastAPI` `LangChain` `Docker`
+- Django auth backend + FastAPI API layer + MCP router
+- 6 local LLMs (LLaMA, Mistral, Phi, Gemma, Qwen, GPT-OSS)
+- RAG pipeline with ChromaDB vector storage
+- Document processing (PDF, DOCX, CSV) + knowledge ingestion
+- Role-based access control + admin dashboard
+- Dockerized deployment, Mac Mini persistent runtime
+
+`Python` `Django` `FastAPI` `LangChain` `ChromaDB` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
+#### 🛡️ Advanced Wazuh AI SOC Stack
+`wazuh-ai-soc-stack`
+
+Full SIEM/SOAR deployment with custom detection, AI-enriched alerting, and multi-cloud monitoring.
+
+- Custom detection rules + log parsing (all standard formats)
+- REST API ingestion + alert enrichment engine
+- **Impossible travel detection workflow**
+- Slack/MS Teams alerts + PagerDuty/OpsGenie routing
+- SOAR logic via n8n + error handling & fallback
+- ML anomaly detection + Shodan external exposure
+
+`Wazuh` `n8n` `Python` `MITRE ATT&CK` `Shodan`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+#### 🎣 Phishing Resilience Research Engine
+`phishing-simulation-analytics-engine`
+
+Enterprise phishing simulation research spanning **4,000+ employees** over a **2.5-year longitudinal study**. **65% improvement** in detection rates across **8,060+ users**.
+
+- Rotational group testing + behavior scoring model
+- Categories: Opened, Reported, Compromised + trend analysis
+- Risk segmentation + organizational risk heatmap
+- Jupyter notebooks + Python analytics + visualization engine
+
+`Python` `Jupyter` `Pandas` `Analytics` `Data Visualization`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛡️ TIER 2 — Cybersecurity Systems
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
 #### ☁️ Black Mirror Cloud Scanner (RCS)
+`cloud-security-scanner`
+
 Prowler-based cloud security scanning platform on AWS serving **30+ enterprise clients**.
 
-- Auto-scaling with Lambda, API Gateway, EventBridge
-- **70% cost reduction** through serverless architecture
-- JumpCloud SSO with SAML 2.0 authentication
+- Auto-scaling: Lambda, API Gateway, EventBridge
+- **70% cost reduction** via serverless architecture
+- JumpCloud SSO with SAML 2.0
 - S3 archival + CloudWatch monitoring
 
 `AWS` `Lambda` `Prowler` `SAML` `Python`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📧 Microsoft 365 Enterprise Backup
-Full M365 backup solution covering Exchange, OneDrive, SharePoint, Teams, OneNote, and Planner.
-
-- **80% backup time reduction** with Python asyncio
-- Microsoft Graph API with OAuth2 authentication
-- Processing **100+ mailboxes** and **5TB+ daily**
-- Cross-platform scheduling daemon
-
-`Python` `AsyncIO` `Graph API` `OAuth2`
-
-</td>
 <td width="50%" valign="top">
 
 #### 📊 Snowflake-Wazuh SIEM Integration
-Cost-optimized security data pipeline achieving **60-70% cost reduction** ($490 → $190/month).
+`snowflake-wazuh-siem-integration`
+
+Cost-optimized security data pipeline: **60-70% cost reduction** ($490 → $190/month).
 
 - Dual integration: Wazuh socket + syslog CSV
 - **100% event delivery rate**
-- 17 SQL tasks consolidated to 6 (78% polling cost reduction)
+- 17 SQL tasks → 6 (78% polling cost reduction)
 - Real-time security event correlation
 
 `Snowflake` `Wazuh` `SQL` `Python`
@@ -192,7 +253,9 @@ Cost-optimized security data pipeline achieving **60-70% cost reduction** ($490 
 <td width="50%" valign="top">
 
 #### 🚨 Ransomware Live Threat Detection
-Real-time ransomware threat intelligence system protecting **50+ clients**.
+`ransomware-live-threat-detection`
+
+Real-time ransomware threat intelligence protecting **50+ clients**.
 
 - n8n workflow with hourly execution cycles
 - Ransomware.live API + AWS S3 client database
@@ -204,11 +267,107 @@ Real-time ransomware threat intelligence system protecting **50+ clients**.
 </td>
 <td width="50%" valign="top">
 
+#### 📈 Vulnerability Aging Analytics
+`vulnerability-aging-analytics`
+
+CVE lifecycle tracking and patch deduplication engine. Reduced **mean time to patch from 45 → 12 days**.
+
+- Duplicate filtering + severity categorization
+- Aging report calculation + risk prioritization
+- CSV export + dashboard visualization
+
+`Python` `SQL` `Nessus` `Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔍 Jira Security Audit Monitoring
+`jira-proactive-security-monitoring`
+
+Proactive security monitoring via Jira audit log analysis.
+
+- Audit log ingestion + risk mapping
+- Insider threat detection model
+- Compliance mapping (ISO 27001 / SOC 2)
+- Threat modeling + architecture diagrams
+
+`Python` `Jira API` `ISO 27001` `SOC 2`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📧 DMARC Monitoring & Failure Detection
+`dmarc-monitoring-automation`
+
+Automated email security monitoring and misconfiguration detection.
+
+- XML report parser + SPF/DKIM validation
+- Failure analytics + alerting engine
+- Misconfiguration detection
+- Visualization dashboard
+
+`Python` `DMARC` `SPF` `DKIM` `DNS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 External Attack Surface Monitor
+`external-attack-surface-monitor`
+
+Shodan-powered continuous external exposure monitoring.
+
+- Shodan API integration + asset detection
+- Continuous monitoring scheduler
+- Risk scoring model
+- Client-facing report templates
+
+`Python` `Shodan` `API` `Risk Scoring`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔎 Third-Party Risk AI Analyzer
+`llm-third-party-risk-assessor`
+
+LLM-powered third-party risk assessment automation.
+
+- Multi-format ingestion (PDF, Excel, JSON)
+- Token optimization + AI-based risk extraction
+- Control mapping + automated risk scoring
+
+`Python` `LangChain` `FastAPI` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📧 Microsoft 365 Enterprise Backup
+`m365-enterprise-backup`
+
+Full M365 backup: Exchange, OneDrive, SharePoint, Teams, OneNote, Planner.
+
+- **80% backup time reduction** with Python asyncio
+- Microsoft Graph API + OAuth2
+- Processing **100+ mailboxes** and **5TB+ daily**
+- Cross-platform scheduling daemon
+
+`Python` `AsyncIO` `Graph API` `OAuth2`
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔐 Atlassian Cloud Backup Automation
-Unified Jira & Confluence backup with enterprise-grade encryption.
+`atlassian-cloud-backup`
+
+Unified Jira & Confluence backup with enterprise encryption.
 
 - GPG AES256 encryption for all backups
-- Interactive CLI with real-time progress tracking
+- Interactive CLI with real-time progress
 - **50+ Confluence spaces** and **20+ Jira projects** daily
 - REST API integration with retry logic
 
@@ -216,46 +375,312 @@ Unified Jira & Confluence backup with enterprise-grade encryption.
 
 </td>
 </tr>
+</table>
+
+---
+
+### 🤖 TIER 3 — AI / LLM Systems
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-#### 📈 Vulnerability Aging Analytics
-CVE lifecycle tracking platform that reduced **mean time to patch from 45 → 12 days**.
+#### 📄 Universal RAG Ingestion Framework
+`universal-rag-ingestion-framework`
 
-- Automated vulnerability lifecycle monitoring
-- Aging analytics and trend reporting
-- Integration with existing scanning infrastructure
+Multi-format document processing pipeline for RAG applications.
 
-`Python` `SQL` `Nessus` `Analytics`
+- Supports PDF, CSV, JSON, DOCX, Images (OCR)
+- Chunking strategies + embedding optimization
+- Vector indexing with ChromaDB
+
+`Python` `LangChain` `ChromaDB` `OCR`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎣 Phishing Security Program
-Enterprise phishing simulation program covering **8,060+ users**.
+#### 🔀 Model Context Protocol Orchestrator
+`model-context-control-plane`
 
-- **65% improvement** in phishing detection rates
-- Multi-campaign simulation framework
-- Detailed analytics and user training integration
+Multi-model LLM routing with intelligent fallback logic.
 
-`Security Awareness` `Analytics` `Automation`
+- Multi-model routing + fallback strategies
+- Prompt versioning + API orchestration
+- Logging & observability layer
+
+`Python` `FastAPI` `MCP` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏛️ AI Security Governance Framework
+`ai-security-governance-framework`
+
+Government AI framework comparison and risk assessment tooling.
+
+- Framework comparison matrix
+- Risk scoring system + control library
+- Evaluation matrix + automated scoring
+
+`Python` `Governance` `Risk Assessment`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚑 AI SOC Incident Response Assistant
+`ai-soc-assistant`
+
+AI-powered SOC assistant for accelerated incident response.
+
+- Log summarization + alert explanation engine
+- Investigation workflow generator
+- Risk-based prioritization
+- Wazuh stack integration
+
+`Python` `LangChain` `Wazuh` `FastAPI`
 
 </td>
 </tr>
 </table>
 
-### Personal & Side Projects
+---
+
+### ⚙️ TIER 4 — Automation Systems
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🔄 Slack ↔ Jira Bi-Directional Sync
+`slack-jira-state-sync-engine`
+
+Real-time bidirectional synchronization engine.
+
+- Timestamp override logic + 10-min sync loop
+- Conflict resolution + checklist logic
+- Full Slack & Jira API integration
+
+`Python` `Slack API` `Jira API` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎬 YouTube AI Content Automation
+`youtube-ai-content-automation`
+
+n8n-powered content pipeline for automated publishing.
+
+- Shorts extraction + metadata optimization
+- AI title generation + publishing automation
+- Error handling + scheduling logic
+
+`n8n` `AI` `API` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🐳 Dockerized LLM Runtime Stack
+`docker-llm-runtime-stack`
+
+Infrastructure for running LLMs across distributed hardware.
+
+- Dockerfiles + Compose orchestration
+- Service dependencies + auto-start logic
+- Mac Mini persistence strategy
+- Prometheus monitoring + Grafana dashboards
+
+`Docker` `Prometheus` `Grafana` `LLM`
+
+</td>
+<td width="50%" valign="top">
+
+#### ✅ SOC Daily Operations Automation
+`automated-soc-daily-checklist`
+
+Automated SOC analyst daily workflow tracking.
+
+- Slack workflow integration
+- Jira task tracking + completion monitoring
+- Automated status reporting
+
+`Slack API` `Jira API` `Python` `n8n`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏢 TIER 5 — System Design & Business Models
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 💰 Credit-Based Job Marketplace MVP
+`credit-based-job-marketplace`
+
+Tradie marketplace platform with credit-based monetization.
+
+- Credit logic + quote cap system
+- Refund system + admin moderation
+- Monetization design + database schema
+
+`System Design` `Database` `Business Logic`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏗️ Managed Team Operating Framework
+`managed-team-framework`
+
+Outsourcing operating model for managed services.
+
+- Hiring model + SLA framework
+- Risk management + communication structure
+- Cost optimization model
+
+`Business Architecture` `SLA` `Operations`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏛️ Holding Company Architecture
+`holding-structure-design`
+
+Corporate structure design with IP protection.
+
+- Subsidiary structure + IP protection model
+- Bankruptcy isolation strategy
+- International registration + governance
+
+`Business Architecture` `Legal` `Governance`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚 Enterprise Knowledge Platform
+`enterprise-knowledge-platform-architecture`
+
+Knowledge base architecture for enterprise documentation.
+
+- Confluence integration + Jira Service Desk mapping
+- Permission model + white-label strategy
+- Search optimization
+
+`Architecture` `Confluence` `Jira` `Design`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧪 TIER 6 — Lab Projects
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 📝 Python Log Parsing Engine
+`python-log-parsing-engine`
+
+Universal log parser supporting all standard formats.
+
+- Apache, Syslog, Windows, JSON logs
+- Normalization engine + structured output
+
+`Python` `Regex` `Log Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔁 API Resilience Framework
+`python-api-resilience-framework`
+
+Production-grade REST API error handling library.
+
+- Structured logging + retry with backoff
+- Exception hierarchy + circuit breaker
+
+`Python` `REST API` `Error Handling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔌 Network Switch Lab (ERS 5520)
+`ers5520-lab-configuration-guide`
+
+Nortel/Avaya ERS 5520 home lab configuration.
+
+- VLAN setup + routing configuration
+- Lab topology diagrams + CLI commands
+
+`Networking` `VLAN` `Routing` `Lab`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🕵️ AI Threat Intelligence Aggregator
+`ai-threat-intel-aggregator`
+
+Automated threat intel collection and correlation.
+
+- MISP JSON import + IOC ingestion
+- Scoring engine + correlation logic
+
+`Python` `MISP` `Threat Intel` `IOC`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 Detection Engineering Rule Pack
+`custom-detection-rule-library`
+
+Custom SIEM detection rules for common attack patterns.
+
+- Impossible travel + brute force detection
+- Suspicious login + privilege escalation rules
+
+`Wazuh` `SIGMA` `Detection Engineering`
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚖️ AI Risk Prioritization Model
+`ai-risk-prioritization-model`
+
+ML-driven risk scoring and behavior analysis.
+
+- Weighted risk scoring + behavior analysis
+- Organizational risk visualization
+
+`Python` `ML` `Risk Scoring` `Analytics`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎮 TIER 7 — Personal & Side Projects
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
 #### 💬 Black Mirror Chat App
-Multi-user chat application with AI integration.
-
-- Alpine.js frontend, Firebase backend
-- Gemini AI integration with document upload
-- Real-time messaging and session management
+Multi-user chat with Alpine.js, Firebase, Gemini AI, and document upload.
 
 `Alpine.js` `Firebase` `Gemini AI`
 
@@ -263,11 +688,7 @@ Multi-user chat application with AI integration.
 <td width="50%" valign="top">
 
 #### 📄 ResumeForge AI
-AI-powered resume builder available in two versions.
-
-- Streamlit version + HTML/JS standalone version
-- AI-driven content suggestions and formatting
-- Multiple template support
+AI-powered resume builder — Streamlit + HTML/JS versions.
 
 `Python` `Streamlit` `JavaScript` `AI`
 
@@ -277,10 +698,7 @@ AI-powered resume builder available in two versions.
 <td width="50%" valign="top">
 
 #### 🎲 3D Ludo Game
-Fully functional 3D Ludo board game.
-
-- 3D UI with smooth animations and sound effects
-- Complete game logic with multiplayer support
+Fully functional 3D board game with animations and sound.
 
 `JavaScript` `3D` `Game Dev`
 
@@ -288,11 +706,7 @@ Fully functional 3D Ludo board game.
 <td width="50%" valign="top">
 
 #### 🧩 Sudoku Game
-React-based Sudoku with advanced features.
-
-- Multiple difficulty levels, hints system
-- Eraser and potential numbers display
-- Clean, responsive UI
+React-based with multiple levels, hints, and potential numbers.
 
 `React` `JavaScript` `Game Logic`
 
@@ -302,27 +716,72 @@ React-based Sudoku with advanced features.
 <td width="50%" valign="top">
 
 #### 🛒 RC Toys Ecommerce
-React ecommerce platform with AI assistant.
-
-- Full product catalog and cart system
-- AI-powered chat assistant for customer support
+React ecommerce with AI-powered chat assistant.
 
 `React` `Node.js` `AI Chat`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🖥️ Distributed LLM System
-Architecture for running LLMs across MacBook clusters.
+#### 💻 ChatGPT Web Interface Clone
+Full frontend replica with projects, chat management.
 
-- Prometheus monitoring + Grafana dashboards
-- Docker orchestration across nodes
+`JavaScript` `HTML` `CSS` `UI/UX`
 
-`Docker` `Prometheus` `Grafana` `LLM`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔮 Responsive Chat Interface
+Model selection, session management, document upload.
+
+`JavaScript` `API` `UI/UX`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 Lead Generation Automation
+n8n workflow for sales/marketing integrating multiple data sources.
+
+`n8n` `API` `Automation`
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## `> cat ./roadmap.log`
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  🗺️  2026 ROADMAP                                                    │
+│                                                                      │
+│  ► Internal Open Source LLM Chatbot                                  │
+│    Multi-user document-aware chatbot with RAG + version migration    │
+│                                                                      │
+│  ► AI LMS Plugin                                                     │
+│    University LMS plugin with real-time AI feedback for students     │
+│                                                                      │
+│  ► Remote Cybersecurity Consulting Service                           │
+│    Independent consulting firm launching 2026                        │
+│                                                                      │
+│  ► SIEM/SOAR AI Integration Architecture                             │
+│    Syslog → Agent AI → n8n → CTIS pipeline                          │
+│                                                                      │
+│  ► SaaS SIEM Log Ingestion Research                                  │
+│    Comprehensive integration analysis for 30+ SaaS products         │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -465,12 +924,12 @@ Architecture for running LLMs across MacBook clusters.
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   "The quieter you become, the more you are able to hear."          ║
-║                                                    — Kali Linux     ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   "The quieter you become, the more you are able to hear."               ║
+║                                                      — Kali Linux        ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
